@@ -13,6 +13,7 @@ TO keep it simple we will experiment with following most important features only
 * Function / BiFunction / UnaryOperator / BinaryOperator / Premitive versions of Function
 * Consumer / BiConsumer / Premitive versions of Consumer
 * Supplier / Premitive versions of Supplier
-## 6. Streams APIs for collection
-## 7. Joda Date Time APIs
-## 8. Double colon (::) operator (Method Reference Operator)
+## 6. Double colon (::) operator (Method/Constructor Reference Operator)
+## 7. Streams APIs for collection
+## 8. Joda Date Time APIs
+
